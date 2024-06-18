@@ -1,21 +1,19 @@
-<h1 align="center">Hi 👋, I'm Andreeee</h1>
+<h1 align="center">Hi 👋, I'm Andree go hard</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
-- 🔭 I’m currently working on [Cyber Eye](https://discord.gg/V5Rqed95PF)
+- 🔭 I’m currently working on [Lithe]([https://discord.gg/V5Rqed95P](https://discord.gg/GPzcgkWc)F)
 
 - 🌱 I’m currently learning **Lua, Javascript, GoLang**
 
-- 🤝 I’m looking for help with [Cyber Eye Anticheat](https://discord.gg/V5Rqed95PF)
+- 👨‍💻 All of my projects are available at [Lithe Discord]([https://discord.gg/V5Rqed95PF](https://discord.gg/GPzcgkWc))
 
-- 👨‍💻 All of my projects are available at [https://discord.gg/V5Rqed95PF](https://discord.gg/V5Rqed95PF)
-
-- 📝 I regularly write articles on [https://discord.gg/V5Rqed95PF](https://discord.gg/V5Rqed95PF)
+- 📝 I regularly write articles on [Lithe Discord]([https://discord.gg/V5Rqed95PF](https://discord.gg/GPzcgkWc))
 
 - 💬 Ask me about **Everything**
 
-- 📫 How to reach me **andreeee7667**
+- 📫 How to reach me **andreegohard (discord)**
 
-- 📄 Know about my experiences [https://discord.gg/V5Rqed95PF](https://discord.gg/V5Rqed95PF)
+- 📄 Know about my experiences [Lithe HUB]([https://discord.gg/V5Rqed95PF](https://discord.gg/GPzcgkWc))
 
 - ⚡ Fun fact **I dont know why i started coding**
 
